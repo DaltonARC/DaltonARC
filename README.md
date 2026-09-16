@@ -10,6 +10,11 @@
 <img src="https://img.shields.io/badge/Enfoque-Full--Stack-2e6e29?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Objetivo-Trabajo%20Internacional-2e6e29?style=for-the-badge" />
 
+<br/>
+
+<img src="https://img.shields.io/github/followers/DaltonARC?label=Seguidores&style=flat-square&color=2e6e29" />
+<img src="https://komarev.com/ghpvc/?username=DaltonARC&label=Visitas%20al%20perfil&color=2e6e29&style=flat-square" />
+
 </div>
 
 <br/>
@@ -33,6 +38,18 @@ filosofia: "Aprender construyendo, documentar todo, no romper producción"
 - 🛠️ Interés constante en self-hosting, automatización (n8n) e infraestructura propia.
 - 💬 Pregúntame sobre: Node.js/Express, TypeScript, React, Python, arquitectura de APIs, Docker.
 - 📫 Abierto a colaborar en proyectos interesantes.
+
+<br/>
+
+## 🧩 Cómo trabajo
+
+| Etapa | Qué hago |
+|---|---|
+| Planificación | Levanto requerimientos reales antes de escribir una línea de código |
+| Arquitectura | Diseño el modelo de datos y la API antes de la interfaz |
+| Desarrollo | Commits pequeños, convenciones claras, ramas por feature |
+| Validación | Pruebas antes de mover algo a producción |
+| Documentación | Todo proyecto serio queda documentado para quien venga después (incluido yo mismo) |
 
 <br/>
 
@@ -74,20 +91,12 @@ filosofia: "Aprender construyendo, documentar todo, no romper producción"
 
 <br/>
 
-## 📊 Estadísticas de GitHub
+## 🗂️ Proyectos destacados
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DaltonARC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonARC&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaltonARC&theme=github-dark-blue&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaltonARC&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda) | Tienda online estática: catálogo, carrito y pedido directo por Instagram | HTML · CSS · JavaScript |
+| [Todo-Manager](https://github.com/DaltonARC/Todo-Manager) | Gestor de tareas | Python |
 
 <br/>
 
@@ -97,23 +106,20 @@ filosofia: "Aprender construyendo, documentar todo, no romper producción"
   <img src="https://raw.githubusercontent.com/DaltonARC/DaltonARC/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<sub>El snake animado se genera solo vía GitHub Actions — instrucciones abajo para activarlo.</sub>
+<sub>Esta animación se genera y actualiza sola cada día, alojada en este mismo repositorio (no depende de servicios externos).</sub>
 
 <br/>
 
-## 🗂️ Proyectos
+## 🎯 Hacia dónde voy
 
-<div align="center">
-  <a href="https://github.com/DaltonARC/la-percha-tienda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaltonARC&repo=la-percha-tienda&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/DaltonARC/Todo-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaltonARC&repo=Todo-Manager&theme=github_dark&hide_border=true" />
-  </a>
-</div>
+- Consolidar experiencia sólida en desarrollo full-stack con proyectos reales en producción.
+- Terminar Ingeniería en Sistemas.
+- Construir un portafolio técnico que respalde una transición a oportunidades de trabajo internacional.
 
 <br/>
 
 <div align="center">
+<sub>Abierto a colaborar en proyectos interesantes — siempre aprendiendo algo nuevo.</sub>
+<br/><br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2e6e29&height=100&section=footer" />
 </div>
