@@ -1,12 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2e6e29&height=180&section=header&text=Hola,%20soy%20Dalton&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Ingenier%C3%ADa%20en%20Sistemas&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2e6e29&height=180&section=header&text=Hola,%20soy%20Dalton&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Construyendo%20software%20que%20resuelve%20problemas%20reales&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Construyendo+software+para+resolver+problemas+reales;Backend+%2B+Frontend+%7C+Node.js+%2F+TypeScript+%2F+React;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Con+la+mira+puesta+en+trabajar+fuera+de+RD&center=true&width=600&height=45&color=2e6e29&vCenter=true&size=20" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Construyendo+software+para+resolver+problemas+reales;Backend+%2B+Frontend+%7C+Node.js+%2F+TypeScript+%2F+React;Con+la+mira+puesta+en+crecer+a+nivel+internacional&center=true&width=600&height=45&color=2e6e29&vCenter=true&size=20" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Rep%C3%BAblica%20Dominicana-2e6e29?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Enfoque-Full--Stack-2e6e29?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Objetivo-Trabajo%20Internacional-2e6e29?style=for-the-badge" />
 
@@ -24,7 +23,6 @@
 ```yaml
 nombre: Dalton
 rol: Full-Stack Developer
-formacion: Ingeniería en Sistemas (UASD) + cursos especializados
 enfoque_actual:
   - Desarrollo de sistemas web a medida (backend + frontend)
   - Arquitectura de datos y APIs
@@ -91,6 +89,27 @@ filosofia: "Aprender construyendo, documentar todo, no romper producción"
 
 <br/>
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="./profile/top-langs.svg" alt="Lenguajes más usados" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DaltonARC&theme=dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=DaltonARC&theme=default&hide_border=true" alt="Racha de contribuciones" />
+  </picture>
+</div>
+
+<sub>Las tarjetas de stats y lenguajes se generan y guardan en este mismo repositorio vía GitHub Actions — no dependen de ningún servicio de terceros que se pueda pausar. La racha usa un servicio activo y mantenido (streak-stats.demolab.com).</sub>
+
+<br/>
+
 ## 🗂️ Proyectos destacados
 
 | Proyecto | Descripción | Stack |
@@ -113,7 +132,6 @@ filosofia: "Aprender construyendo, documentar todo, no romper producción"
 ## 🎯 Hacia dónde voy
 
 - Consolidar experiencia sólida en desarrollo full-stack con proyectos reales en producción.
-- Terminar Ingeniería en Sistemas.
 - Construir un portafolio técnico que respalde una transición a oportunidades de trabajo internacional.
 
 <br/>
