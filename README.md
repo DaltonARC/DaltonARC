@@ -103,9 +103,38 @@ objetivo:
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DaltonARC&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=DaltonARC&theme=default&hide_border=true" alt="Racha de contribuciones" />
+</picture>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/DaltonARC/DaltonARC/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
+
+---
+
+## 🧊 Calendario de contribuciones en 3D
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-green.svg" alt="3D contribution calendar" />
+</picture>
+
+</div>
+
+---
+
+## 📌 Actividad reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>Esta lista se actualiza sola cada 30 minutos con mis últimos eventos públicos en GitHub.</sub>
 
 ---
 
