@@ -116,19 +116,6 @@ objetivo:
 
 ---
 
-## 🧊 Calendario de contribuciones en 3D
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <img src="./profile-3d-contrib/profile-green.svg" alt="3D contribution calendar" />
-</picture>
-
-</div>
-
----
-
 ## 📌 Actividad reciente
 
 <!--START_SECTION:activity-->
