@@ -119,7 +119,7 @@ objetivo:
 ## 📌 Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/DaltonARC/la-percha-tienda/issues/16#issuecomment-5691040693) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
+1. 💪 Opened PR [#30](https://github.com/DaltonARC/la-percha-tienda/pull/30) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
 2. 🔒 Closed issue [#16](https://github.com/DaltonARC/la-percha-tienda/issues/16) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
 3. 🎉 Merged PR [#29](https://github.com/DaltonARC/la-percha-tienda/pull/29) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
 4. 💪 Opened PR [#29](https://github.com/DaltonARC/la-percha-tienda/pull/29) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
