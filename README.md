@@ -190,11 +190,11 @@ Sistema de pedidos con panel de administración para un negocio de comida: catá
 ## 📌 Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/DaltonARC/la-percha-tienda/pull/30) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
-2. 🔒 Closed issue [#16](https://github.com/DaltonARC/la-percha-tienda/issues/16) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
-3. 🎉 Merged PR [#29](https://github.com/DaltonARC/la-percha-tienda/pull/29) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
-4. 💪 Opened PR [#29](https://github.com/DaltonARC/la-percha-tienda/pull/29) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
-5. 🎉 Merged PR [#28](https://github.com/DaltonARC/la-percha-tienda/pull/28) in [DaltonARC/la-percha-tienda](https://github.com/DaltonARC/la-percha-tienda)
+1. 🎉 Merged PR [#3](https://github.com/DaltonARC/stackrd-web/pull/3) in [DaltonARC/stackrd-web](https://github.com/DaltonARC/stackrd-web)
+2. 💪 Opened PR [#3](https://github.com/DaltonARC/stackrd-web/pull/3) in [DaltonARC/stackrd-web](https://github.com/DaltonARC/stackrd-web)
+3. 💪 Opened PR [#1](https://github.com/DaltonARC/stackrd-demo-la-percha/pull/1) in [DaltonARC/stackrd-demo-la-percha](https://github.com/DaltonARC/stackrd-demo-la-percha)
+4. 🎉 Merged PR [#2](https://github.com/DaltonARC/stackrd-web/pull/2) in [DaltonARC/stackrd-web](https://github.com/DaltonARC/stackrd-web)
+5. 💪 Opened PR [#2](https://github.com/DaltonARC/stackrd-web/pull/2) in [DaltonARC/stackrd-web](https://github.com/DaltonARC/stackrd-web)
 <!--END_SECTION:activity-->
 
 <sub>Esta lista se actualiza sola cada 30 minutos con mis últimos eventos públicos en GitHub.</sub>
